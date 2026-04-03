@@ -117,6 +117,9 @@ docs/
 automation/
 └── ROADMAP.md
 
+reference/
+└── BENCHMARK_ACCOUNTS.md
+
 PENDING_EVALUATION.md
 ```
 
@@ -128,6 +131,7 @@ PENDING_EVALUATION.md
 - **决策者执行框架**：人类在关键节点的职责与判断标准
 - **执行者AI执行框架**：工具执行、回传、异常处理
 - **自动化路线图**：生产线各环节自动化现状与待验证事项
+- **对标账号参考库**：各情绪赛道的对标账号池，服务阶段0情绪验证、阶段1候选参考源头筛选、阶段6复盘基准对照，详见 [`reference/BENCHMARK_ACCOUNTS.md`](./reference/BENCHMARK_ACCOUNTS.md)
 
 > **⚠️ 待评估清单**：每次复盘或新AI角色加入项目时，必须先扫描 [PENDING_EVALUATION.md](./PENDING_EVALUATION.md)，理解当前非框架更新级别的重点推进要点。该文档存放已产生初步认知但未完成闭环验证的事项，具体审阅规则见文档内部。
 
