@@ -1,3 +1,22 @@
+> [!IMPORTANT]
+> **New AI / new session: start from the minimal branch first.**
+>
+> 当前 `main` 分支仍保留旧文档体系，适合作为历史原料库与完整参考。
+> 如果你是第一次进入项目，或要快速恢复当前最小工作上下文，请**优先阅读**:
+>
+> **[`v2-minimal` 分支的 `00_MINIMAL_TEST/`](https://github.com/lee164d/MaoTuten/tree/v2-minimal/00_MINIMAL_TEST)**
+>
+> 进入后按顺序阅读：
+> 1. `01_账号是什么.md`
+> 2. `02_一条内容怎么做.md`
+> 3. `03_什么样的内容算成立.md`
+> 4. `04_现在在验证什么.md`
+> 5. `tools/NB2_避坑指南.md`
+>
+> 简单说：
+> - `main` = 旧体系 + 原料库
+> - `v2-minimal/00_MINIMAL_TEST/` = 当前最小操作系统入口
+
 # MaoTuten｜猫图腾
 
 > 用猫作为目标受众的高配替身人格，交付高审美、可传播、可系列化的情绪代餐内容。
